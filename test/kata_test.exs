@@ -1,6 +1,6 @@
 defmodule KataTest do
   use ExUnit.Case
 
-  test "some_case" do
+  test "your first test" do
   end
 end
